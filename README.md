@@ -24,7 +24,7 @@
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/manalmagdy10/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: manalmagdy722@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1u3p4XxsWfXS8UGKMuj3NqPCrafMooZzF/view?usp=share_link).
+- 📝 &nbsp; Checkout my [Resume]().
 
 ### My Absolute Favorites:
 
