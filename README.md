@@ -3,7 +3,7 @@
 ## Hey 👋, I'm [Manal Magdy!](https://github.com/ManalMagdy-2000/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manalmagdy10/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://yashikajotwani12.github.io/yashikajotwani/)
+
 
 
 
