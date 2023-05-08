@@ -5,7 +5,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manalmagdy10/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManalMagdy-2000&label=Profile%20views&color=0e75b6&style=flat" alt="ManalMagdy-2000" /> </p>
 
 
 ### Glad to see you here! &nbsp;
