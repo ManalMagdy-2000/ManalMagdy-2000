@@ -1,4 +1,4 @@
-# Hey 👋, I'm [Manal Magdy ](https://github.com/ManalMagdy-2000/)
+# Hey 👋, I'm [Manal](https://github.com/ManalMagdy-2000/) from Egypt
 
 <img src="https://user-images.githubusercontent.com/77020164/153806717-dff02c3c-e022-4af5-8140-abc022be9c02.png" width="35%" height="35%"  align="right"  />
 
