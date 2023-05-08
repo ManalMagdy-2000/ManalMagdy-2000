@@ -1,4 +1,4 @@
-# Hey 👋, I'm [Manal](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manalmagdy10/) from Egypt
+# Hey 👋, I'm [Manal](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white) from Egypt
 
 <img src="https://user-images.githubusercontent.com/77020164/153806717-dff02c3c-e022-4af5-8140-abc022be9c02.png" width="35%" height="35%"  align="right"  />
 
