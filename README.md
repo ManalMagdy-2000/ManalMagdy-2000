@@ -25,7 +25,6 @@
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: manalmagdy722@gmail.com / 
                              manal.magdy.2000@outlook.com
-- 📝 &nbsp; Checkout my [Resume]().
 
 ### My Absolute Favorites:
 
