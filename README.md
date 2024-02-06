@@ -18,7 +18,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Angularjs , <br /> Nodejs, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Angularjs , <br /> Nodejs, PostgreSQL, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ManalMagdy-2000).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/manalmagdy10/)! I am happy to help.
