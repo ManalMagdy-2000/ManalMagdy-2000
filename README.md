@@ -23,8 +23,9 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ManalMagdy-2000).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/manalmagdy10/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: manalmagdy722@gmail.com / 
-                             manal.magdy.2000@outlook.com
+- 📫 &nbsp; How to reach me: manalmagdy092@gmail.com / 
+                             manalmagdy722@gmail.com /
+                             b1901825@helplive.edu.my
 
 ### My Absolute Favorites:
 
